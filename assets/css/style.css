@@ -246,11 +246,7 @@ input[type=submit] {
     width: 800px;
   }
   .main-section {
-    width: 60%;
-  }
-  .auth-image {
     width: 100%;
-    float: none;
   }
 }
 
@@ -263,9 +259,13 @@ input[type=submit] {
     float:left;
     max-width: none;
   }
-  .auth-image {
+
+   .auth-image {
     width: 100%;
     float: none;
+  }
+  .main-section {
+    width:100%;
   }
 }
 
@@ -281,6 +281,9 @@ input[type=submit] {
   .auth-image {
     width: 100%;
     float: none;
+  }
+    .main-section {
+    width:100%;
   }
 }
 
